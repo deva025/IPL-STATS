@@ -13,4 +13,9 @@ Web Browser – Google Chrome – 60 orlater Database support - MySQL5.7
 o MySQL Server5.7
 o MySQL Shell1.0.10
 o MySQLWorkbench Operating system – Windows 10 XAMAPP Server deployment - apache server
-# HARDWAREREQUIREMENTS Processor – Pentium or more RAM – 2 GB ormore Hard disk – 3 GB ormore Monitor – VGA of 1024x768 screenresolution Keyboard andMouse
+# HARDWAREREQUIREMENTS
+Processor – Pentium or more 
+RAM – 2 GB ormore 
+Hard disk – 3 GB ormore 
+Monitor – VGA of 1024x768 screenresolution
+Keyboard andMouse
