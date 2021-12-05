@@ -9,7 +9,8 @@ A reliable and scalable database driven web application with security features t
 # SPECIFICREQUIREMENTS
 The specific requirements of the IPL TEAM STATS are stated as follows:
 # SOFTWAREREQUIREMENTS
-Web Browser – Google Chrome – 60 orlater Database support - MySQL5.7
+Web Browser – Google Chrome – 60 orlater 
+Database support - MySQL5.7
 o MySQL Server5.7
 o MySQL Shell1.0.10
 o MySQLWorkbench Operating system – Windows 10 XAMAPP Server deployment - apache server
